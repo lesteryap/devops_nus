@@ -1,2 +1,10 @@
-# devops_nus
-This is a new test project, I am just getting started with Git.
+# Me getting started with Markdown and Git
+
+Lorem ipsum 123
+
+* this is a bullet point
+* this is a second bullet point
+
+```
+This is a code section
+```
