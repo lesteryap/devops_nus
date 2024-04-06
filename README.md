@@ -12,3 +12,7 @@ This is a code section
 This is an image:
 
 ![](nus.jpeg)
+
+This is a link:
+
+[StraitsTimes](https://www.straitstimes.com/)
